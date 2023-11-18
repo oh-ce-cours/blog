@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  navbar:
+    search: false
+    logo: logo.png
+    background: "#FFF"
+    foreground: "#1238D8"
+    right:
+      - text: "Accueil"
+        file: index.qmd
+      - text: "Oh Ce Cours Formation"
+        href: https://ohcecours.fr
+      - about.qmd 
+  favicon: logo.png
+
+format:
+  html:
+    theme: cosmo 
+    css: styles.css
+
+listing:
+  type: default 
+  contents: posts
+  fields: [image, description, date, categories, title, author, reading-time]

@@ -1,0 +1,20 @@
+---
+title: "Le blog de Oh Ce Cours"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+title-block-banner: true
+---
+
+Ceci est le blog du collectif de formateurs **Oh Ce Cours**. 
+
+Vous trouverez principalement des articles techniques, sur du python, du web, de la data science... 
+
+Bref les sujets que nous enseignons et maitrisons. 
+
+
+

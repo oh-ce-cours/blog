@@ -1,0 +1,28 @@
+---
+title: "A propos de ce blog"
+image: logo.png
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: link
+      text: Oh Ce cours
+      href: https://ohcecours.fr
+
+---
+
+Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023. 
+
+Sur ce blog nous cherchons à partager les sujets qui intriguent le plus souvent les personnes que l'on a formées. 
+
+::: {layout-ncol=2}
+![Matthieu](logo.png)
+
+![Yves](logo.png)
+:::
+
