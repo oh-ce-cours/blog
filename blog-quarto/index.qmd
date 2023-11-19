@@ -13,7 +13,7 @@ listing:
 title-block-banner: true
 ---
 
-Ceci est le blog du collectif de formateurs **Oh Ce Cours**.
+Ceci est le blog du collectif de formateurs **Oh Ce Cours**. 
 
 Vous trouverez principalement des articles techniques, sur du python, du web, de la data science... 
 Bref les sujets que nous enseignons et maitrisons. 
