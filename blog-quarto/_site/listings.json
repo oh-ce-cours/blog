@@ -13,5 +13,12 @@
   {
     "listing": "/posts/ecosysteme-python/2023-11-18-pourquoi-j-aime-faire-du-python copy/index.html",
     "items": []
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html",
+      "/posts/ecosysteme-python/2023-11-18-pourquoi-j-aime-faire-du-python copy/index.html"
+    ]
   }
 ]

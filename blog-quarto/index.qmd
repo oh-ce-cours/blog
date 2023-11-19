@@ -1,5 +1,5 @@
 ---
-title: "Le blog de Oh Ce Cours"
+title: "Le blog du collectif Oh Ce Cours"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,11 +10,13 @@ listing:
 title-block-banner: true
 ---
 
-Ceci est le blog du collectif de formateurs **Oh Ce Cours**. 
+Ceci est le blog du collectif de formateurs **Oh Ce Cours**.
 
 Vous trouverez principalement des articles techniques, sur du python, du web, de la data science... 
-
 Bref les sujets que nous enseignons et maitrisons. 
 
+Chez **Oh Ce Cours**, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. Que vous soyez débutant cherchant à améliorer vos bases ou professionnel expérimenté en quête de perfectionnement.
+
+**Explorez nos articles**. Plongez dans nos publications pour découvrir des tutoriels, des astuces, des analyses approfondies et des conseils pratiques.
 
 

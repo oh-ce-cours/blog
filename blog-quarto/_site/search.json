@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "A propos de ce blog",
     "section": "",
-    "text": "Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023.\nSur ce blog nous cherchons à partager les sujets qui intriguent le plus souvent les personnes que l’on a formées.\n\n\n\n\n\n\nMatthieu\n\n\n\n\n\n\n\nYves"
+    "text": "Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023.\nChez nous, on adore la technologie, et on sait que vous aussi. C’est pour ça qu’on est là, pour vous partager notre passion et vous aider à maîtriser le monde complexe du développement et de la technologie."
   },
   {
     "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Le blog de Oh Ce Cours",
+    "title": "Le blog du collectif Oh Ce Cours",
     "section": "",
-    "text": "Ceci est le blog du collectif de formateurs Oh Ce Cours.\nVous trouverez principalement des articles techniques, sur du python, du web, de la data science…\nBref les sujets que nous enseignons et maitrisons.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 17, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Ceci est le blog du collectif de formateurs Oh Ce Cours.\nVous trouverez principalement des articles techniques, sur du python, du web, de la data science… Bref les sujets que nous enseignons et maitrisons.\nChez Oh Ce Cours, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. Que vous soyez débutant cherchant à améliorer vos bases ou professionnel expérimenté en quête de perfectionnement.\nExplorez nos articles. Plongez dans nos publications pour découvrir des tutoriels, des astuces, des analyses approfondies et des conseils pratiques.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 17, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html",
@@ -138,5 +138,33 @@
     "title": "Pourquoi j’aime faire du python",
     "section": "Et si c’était à refaire ?",
     "text": "Et si c’était à refaire ?\nJe le referait sans aucun doutes. Mais différemment.\nJ’ai mis vraiment longtemps à saisir certains concepts (par exemple les décorateurs). Pour certains, je ne les ai compris qu’en préparant des cours pour les expliquer (par exemple… les décorateurs) alors que je les utilisais assez souvent. Mais ce n’était pas clair.\nLe problème ce n’est pas la difficulté des sujets ou sa soit-disant incompétence. C’est de trouver des ressources de qualité, qui vous expliquent simplement et sans bullshit ces sujets. Trouvez ces sources n’est pas facile, et surtout elles changent au cours du temps, certains projets n’étant plus mis à jours (au revoir Sam et Max, tu m’aura tout appris).\nC’est pour cela qu’avec Yves nous avons décidé de lancer Oh Ce Cours et ce blog. Pour partager nos ressources et notre expérience au plus grand nombre.\nQue ce soit dans nos formations, dans l’académie ou dans nos articles, nous essayons de vous exposer des sujets méconnus ou complexes, les simplifier pour que vous ayez le déclic.\nDonc, si c’était à refaire, je lirai probablement les articles de ce blog 😀"
+  },
+  {
+    "objectID": "about.html#ce-quon-vous-propose",
+    "href": "about.html#ce-quon-vous-propose",
+    "title": "A propos de ce blog",
+    "section": "Ce qu’on Vous Propose",
+    "text": "Ce qu’on Vous Propose\nImaginez un endroit où vous pouvez apprendre le Python et bien d’autres choses et échanger avec d’autres passionnés. Eh bien, c’est ici ! Chez Oh Ce Cours, notre mission est de vous offrir un espace dynamique et fun pour booster vos compétences techniques et découvrir de nouvelles perspectives."
+  },
+  {
+    "objectID": "about.html#bienvenue-sur-le-blog-de-oh-ce-cours.",
+    "href": "about.html#bienvenue-sur-le-blog-de-oh-ce-cours.",
+    "title": "A propos de ce blog",
+    "section": "",
+    "text": "Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023.\nChez nous, on adore la technologie, et on sait que vous aussi. C’est pour ça qu’on est là, pour vous partager notre passion et vous aider à maîtriser le monde complexe du développement et de la technologie."
+  },
+  {
+    "objectID": "about.html#on-est-là-pour-vous",
+    "href": "about.html#on-est-là-pour-vous",
+    "title": "A propos de ce blog",
+    "section": "On est Là pour Vous",
+    "text": "On est Là pour Vous\nQue vous soyez débutant désireux d’apprendre les bases ou expert en quête d’inspiration, nous sommes là pour vous accompagner à chaque étape. Nous croyons en l’importance de la pratique, de l’expérimentation, et surtout, du plaisir dans l’apprentissage."
+  },
+  {
+    "objectID": "about.html#explorez-apprenez-progressez",
+    "href": "about.html#explorez-apprenez-progressez",
+    "title": "A propos de ce blog",
+    "section": "Explorez, Apprenez, Progressez",
+    "text": "Explorez, Apprenez, Progressez\nPlongez dans notre blog pour découvrir des ressources éducatives de qualité, des astuces pratiques, et des analyses approfondies. Rejoignez notre communauté de passionnés, échangez avec nos experts, et faites de nouvelles découvertes.\nEnsemble, explorons le monde passionnant du développement et de la technologie. Préparez-vous à être inspiré, à apprendre, et à progresser avec Oh Ce Cours.\n\n\n\n\n\n\nMatthieu\n\n\n\n\n\n\n\nYves"
   }
 ]

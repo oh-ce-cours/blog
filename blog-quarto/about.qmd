@@ -15,10 +15,27 @@ about:
       href: https://ohcecours.fr
 
 ---
+ 
+## Bienvenue sur le Blog de Oh Ce Cours. 
 
 Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023. 
 
-Sur ce blog nous cherchons à partager les sujets qui intriguent le plus souvent les personnes que l'on a formées. 
+Chez nous, on adore la technologie, et on sait que vous aussi. C'est pour ça qu'on est là, pour vous partager notre passion et vous aider à maîtriser le monde complexe du développement et de la technologie.
+
+## Ce qu'on Vous Propose
+
+Imaginez un endroit où vous pouvez apprendre le Python et bien d'autres choses et échanger avec d'autres passionnés. Eh bien, c'est ici ! Chez Oh Ce Cours, notre mission est de vous offrir un espace dynamique et fun pour booster vos compétences techniques et découvrir de nouvelles perspectives.
+
+## On est là pour Vous
+
+Que vous soyez débutant désireux d'apprendre les bases ou expert en quête d'inspiration, nous sommes là pour vous accompagner à chaque étape. Nous croyons en l'importance de la pratique, de l'expérimentation, et surtout, du plaisir dans l'apprentissage.
+
+## Explorez, Apprenez, Progressez
+Plongez dans notre blog pour découvrir des ressources éducatives de qualité, des astuces pratiques, et des analyses approfondies. Rejoignez notre communauté de passionnés, échangez avec nos experts, et faites de nouvelles découvertes.
+
+Ensemble, explorons le monde passionnant du développement et de la technologie. Préparez-vous à être inspiré, à apprendre, et à progresser avec Oh Ce Cours.
+
+
 
 ::: {layout-ncol=2}
 ![Matthieu](logo.png)
