@@ -3,7 +3,7 @@
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
-
+keywords: "Oh Ce Cours, blog, développement, technologie, Python, git, bash, pandas, formation, pratiques, tutoriels, astuces"
 # Enable banner style title blocks
 title-block-banner: true
 toc: true

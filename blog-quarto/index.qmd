@@ -1,5 +1,9 @@
 ---
 title: "Le blog du collectif Oh Ce Cours"
+description: "Bienvenue sur le blog de Oh Ce Cours, votre source incontournable de contenu technique de qualité."
+keywords: "Oh Ce Cours, blog, développement, technologie, Python, git, bash, pandas, formation, pratiques, tutoriels, astuces"
+
+author: Matthieu Falce
 listing:
   contents: posts
   sort: "date desc"
@@ -18,7 +22,7 @@ Ceci est le blog du collectif de formateurs **Oh Ce Cours**.
 Vous trouverez principalement des articles techniques, sur du python, du web, de la data science... 
 Bref les sujets que nous enseignons et maitrisons. 
 
-Chez **Oh Ce Cours**, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. 
+Chez **Oh Ce Cours**, notre objectif est de vous aider à connaitre les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. 
 Préparez-vous à faire un tour dans le monde fascinant de la technologie et de l'apprentissage. On est là pour vous inspirer, vous apprendre des choses, et vous faire progresser avec Oh Ce Cours.
 
 
