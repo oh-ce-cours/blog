@@ -6,7 +6,12 @@ website:
   site-url: https://blog.ohcecours.fr
   description: "Découvrez des articles riches en contenu sur le développement, la technologie et le coding. Rejoignez la communauté Oh Ce Cours pour explorer des tutoriels pratiques, des astuces techniques, et des analyses approfondies. Plongez dans le monde du code et de la technologie avec nos publications régulières. Restez à jour et ne manquez rien des dernières tendances et conseils pratiques pour booster vos compétences techniques"
   search: false
-
+  twitter-card: true
+  open-graph: true
+  google-analytics: 
+    tracking-id	: G-WTXTCK78R2
+    anonymize-ip: true
+    storage: none
   navbar:
     title: false
     logo: logo.png
