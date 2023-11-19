@@ -3,7 +3,7 @@ title: "Le blog du collectif Oh Ce Cours"
 description: "Bienvenue sur le blog de Oh Ce Cours, votre source incontournable de contenu technique de qualité."
 keywords: "Oh Ce Cours, blog, développement, technologie, Python, git, bash, pandas, formation, pratiques, tutoriels, astuces"
 
-author: Matthieu Falce
+author: Oh Ce Cours
 listing:
   contents: posts
   sort: "date desc"

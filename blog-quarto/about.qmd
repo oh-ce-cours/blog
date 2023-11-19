@@ -1,5 +1,9 @@
 ---
 title: "A propos de ce blog"
+description: "A propos de ce blog."
+keywords: "Oh Ce Cours, blog, développement, technologie, Python, git, bash, pandas, formation, pratiques, tutoriels, astuces"
+author: Oh Ce Cours
+
 image: logo.png
 about:
   template: trestles
