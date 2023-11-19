@@ -2,8 +2,13 @@ project:
   type: website
 
 website:
+  title: "Blog du collectif Oh Ce Cours"
+  site-url: https://blog.ohcecours.fr
+  description: "Découvrez des articles riches en contenu sur le développement, la technologie et le coding. Rejoignez la communauté Oh Ce Cours pour explorer des tutoriels pratiques, des astuces techniques, et des analyses approfondies. Plongez dans le monde du code et de la technologie avec nos publications régulières. Restez à jour et ne manquez rien des dernières tendances et conseils pratiques pour booster vos compétences techniques"
+  search: false
+
   navbar:
-    search: false
+    title: false
     logo: logo.png
     background: "#FFF"
     foreground: "#1238D8"
@@ -14,13 +19,19 @@ website:
         href: https://ohcecours.fr
       - about.qmd 
   favicon: logo.png
+  page-footer:
+    left: |
+      Créé par [Oh Ce Cours](https://ohcecours.fr)
+    center:
+      - text: "A propos"
+        href: about.qmd
+    right:
+      - icon: rss
+        href: /index.xml
+        aria-label: Oh Ce Cours Blog RSS        
 
 format:
   html:
     theme: cosmo 
     css: styles.css
 
-listing:
-  type: default 
-  contents: posts
-  fields: [image, description, date, categories, title, author, reading-time]

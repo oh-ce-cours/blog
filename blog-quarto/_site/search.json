@@ -7,95 +7,32 @@
     "text": "Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023.\nChez nous, on adore la technologie, et on sait que vous aussi. C’est pour ça qu’on est là, pour vous partager notre passion et vous aider à maîtriser le monde complexe du développement et de la technologie."
   },
   {
-    "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html",
-    "href": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html",
-    "title": "Pourquoi j’aime faire du python",
+    "objectID": "about.html#bienvenue-sur-le-blog-de-oh-ce-cours.",
+    "href": "about.html#bienvenue-sur-le-blog-de-oh-ce-cours.",
+    "title": "A propos de ce blog",
     "section": "",
-    "text": "Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette.\nPuis j’ai eu de vrais cours d’informatique en prépa. D’abord du Pascal puis du C / C++. Et j’ai détesté. Globalement, ma créativité était bloquée par le langage, je n’arrivais pas à exprimer correctement ce que je voulais à l’ordinateur.\nEt puis j’ai eu un cours de Python en 2011 (python 2.6 ou 2.7)."
+    "text": "Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023.\nChez nous, on adore la technologie, et on sait que vous aussi. C’est pour ça qu’on est là, pour vous partager notre passion et vous aider à maîtriser le monde complexe du développement et de la technologie."
   },
   {
-    "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#le-développement-et-moi",
-    "href": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#le-développement-et-moi",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "",
-    "text": "Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette.\nPuis j’ai eu de vrais cours d’informatique en prépa. D’abord du Pascal puis du C / C++. Et j’ai détesté. Globalement, ma créativité était bloquée par le langage, je n’arrivais pas à exprimer correctement ce que je voulais à l’ordinateur.\nEt puis j’ai eu un cours de Python en 2011 (python 2.6 ou 2.7)."
+    "objectID": "about.html#ce-quon-vous-propose",
+    "href": "about.html#ce-quon-vous-propose",
+    "title": "A propos de ce blog",
+    "section": "Ce qu’on Vous Propose",
+    "text": "Ce qu’on Vous Propose\nImaginez un endroit où vous pouvez apprendre le Python et bien d’autres choses et échanger avec d’autres passionnés. Eh bien, c’est ici ! Chez Oh Ce Cours, notre mission est de vous offrir un espace dynamique et fun pour booster vos compétences techniques et découvrir de nouvelles perspectives."
   },
   {
-    "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#rencontre-avec-python",
-    "href": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#rencontre-avec-python",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Rencontre avec python",
-    "text": "Rencontre avec python\nEt là c’était fou. J’arrivais enfin à faire des programmes qui marchent.\nQue ce soit de l’algorithmie ou des interfaces graphiques, c’était la première fois où je sentais que je maitrisais ce qui se passait. Tellement, que j’en ai fait mon métier et que maintenant je l’enseigne soit à des étudiants d’université soit à des professionnels en formation continue.\nEn venant du C++ écrire print(\"Hello World\") et avoir quelque chose qui s’affiche directement a quelque chose de magique."
+    "objectID": "about.html#on-est-là-pour-vous",
+    "href": "about.html#on-est-là-pour-vous",
+    "title": "A propos de ce blog",
+    "section": "On est là pour Vous",
+    "text": "On est là pour Vous\nQue vous soyez débutant désireux d’apprendre les bases ou expert en quête d’inspiration, nous sommes là pour vous accompagner à chaque étape. Nous croyons en l’importance de la pratique, de l’expérimentation, et surtout, du plaisir dans l’apprentissage."
   },
   {
-    "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#les-forces-du-langage",
-    "href": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#les-forces-du-langage",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Les forces du langage",
-    "text": "Les forces du langage\nAvec un peu de recul, j’ai réussi à mettre le doigt sur ce qui me plaisait vraiment dans ce langage :\n\nne se met pas en chemin de la réflexion : globalement exprimer une idée en python n’est pas trop compliqué, le langage est “haut niveau”, on peut se concentrer sur la destination que l’on veut atteindre\nil est raisonnable : une syntaxe saine, des comportements relativement cohérents et une importance à la lisibilité du code écrit\nil est simple sans être simpliste : pour quelqu’un qui connait l’informatique, apprendre les bases de Python prend une demi journée. Pour les subtilités du langage c’est une autre histoire… Il permet de découvrir des concepts assez avancés facilement (programmation fonctionnelle, métaprogrammation, modification d’AST, …)\nl’écosystème : globalement toutes les parties compliquées de vos projets ont déjà été codées par quelqu’un d’autre et sont facilement installable\nle meilleur nul part mais excellent partout : quel que soit le projet, vous aurez toujours un language plus adapté (R pour la “data”, PHP pour du web). Cependant dans les projets modernes qui peuvent s’étendre à l’interface de plusieurs domaines sa généricité est un atout."
-  },
-  {
-    "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#les-faiblesses-du-langage",
-    "href": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#les-faiblesses-du-langage",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Les faiblesses du langage",
-    "text": "Les faiblesses du langage\nEvidemment tout n’est pas rose. Au bout d’un moment on fini par voir les limites.\nN’oubliez pas qu’il y a deux types de langages : ceux qui sont parfaits et ceux que les gens utilisent.\nVoilà ce que j’ai remarqué :\n\nle langage est trop flexible : les développeurs auront tendance à prendre toute la liberté qu’on leur offre, ce n’est pas une bonne chose à mon avis.\nc’est au développeur d’être responsable : corollaire du point précédent. Là où les langages plus stricts ont des gardes fous, en Python c’est au développeur et son équipe de les mettre en place\nl’écosystème est chaotique : si l’on ne comprend pas bien les bases, installer des modules peut être un vrai calvaire"
-  },
-  {
-    "objectID": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#et-si-cétait-à-refaire",
-    "href": "posts/ecosysteme-python/pourquoi-python-est-connu/index.html#et-si-cétait-à-refaire",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Et si c’était à refaire ?",
-    "text": "Et si c’était à refaire ?\nJe le referait sans aucun doutes. Mais différemment.\nJ’ai mis vraiment longtemps à saisir certains concepts (par exemple les décorateurs). Pour certains, je ne les ai compris qu’en préparant des cours pour les expliquer (par exemple… les décorateurs) alors que je les utilisais assez souvent. Mais ce n’était pas clair.\nLe problème ce n’est pas la difficulté des sujets ou sa soit-disant incompétence. C’est de trouver des ressources de qualité, qui vous expliquent simplement et sans bullshit ces sujets. Trouvez ces sources n’est pas facile, et surtout elles changent au cours du temps, certains projets n’étant plus mis à jours (au revoir Sam et Max, tu m’aura tout appris).\nC’est pour cela qu’avec Yves nous avons décidé de lancer Oh Ce Cours et ce blog. Pour partager nos ressources et notre expérience au plus grand nombre.\nQue ce soit dans nos formations, dans l’académie ou dans nos articles, nous essayons de vous exposer des sujets méconnus ou complexes, les simplifier pour que vous ayez le déclic.\nDonc, si c’était à refaire, je lirai probablement les articles de ce blog 😀"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Le blog du collectif Oh Ce Cours",
-    "section": "",
-    "text": "Ceci est le blog du collectif de formateurs Oh Ce Cours.\nVous trouverez principalement des articles techniques, sur du python, du web, de la data science… Bref les sujets que nous enseignons et maitrisons.\nChez Oh Ce Cours, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. Que vous soyez débutant cherchant à améliorer vos bases ou professionnel expérimenté en quête de perfectionnement.\nExplorez nos articles. Plongez dans nos publications pour découvrir des tutoriels, des astuces, des analyses approfondies et des conseils pratiques.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 17, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html",
-    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "",
-    "text": "Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette.\nPuis j’ai eu de vrais cours d’informatique en prépa. D’abord du Pascal puis du C / C++. Et j’ai détesté. Globalement, ma créativité était bloquée par le langage, je n’arrivais pas à exprimer correctement ce que je voulais à l’ordinateur.\nEt puis j’ai eu un cours de Python en 2011 (python 2.6 ou 2.7)."
-  },
-  {
-    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#le-développement-et-moi",
-    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#le-développement-et-moi",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "",
-    "text": "Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette.\nPuis j’ai eu de vrais cours d’informatique en prépa. D’abord du Pascal puis du C / C++. Et j’ai détesté. Globalement, ma créativité était bloquée par le langage, je n’arrivais pas à exprimer correctement ce que je voulais à l’ordinateur.\nEt puis j’ai eu un cours de Python en 2011 (python 2.6 ou 2.7)."
-  },
-  {
-    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#rencontre-avec-python",
-    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#rencontre-avec-python",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Rencontre avec python",
-    "text": "Rencontre avec python\nEt là c’était fou. J’arrivais enfin à faire des programmes qui marchent.\nQue ce soit de l’algorithmie ou des interfaces graphiques, c’était la première fois où je sentais que je maitrisais ce qui se passait. Tellement, que j’en ai fait mon métier et que maintenant je l’enseigne soit à des étudiants d’université soit à des professionnels en formation continue.\nEn venant du C++ écrire print(\"Hello World\") et avoir quelque chose qui s’affiche directement a quelque chose de magique."
-  },
-  {
-    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-forces-du-langage",
-    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-forces-du-langage",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Les forces du langage",
-    "text": "Les forces du langage\nAvec un peu de recul, j’ai réussi à mettre le doigt sur ce qui me plaisait vraiment dans ce langage :\n\nne se met pas en chemin de la réflexion : globalement exprimer une idée en python n’est pas trop compliqué, le langage est “haut niveau”, on peut se concentrer sur la destination que l’on veut atteindre\nil est raisonnable : une syntaxe saine, des comportements relativement cohérents et une importance à la lisibilité du code écrit\nil est simple sans être simpliste : pour quelqu’un qui connait l’informatique, apprendre les bases de Python prend une demi journée. Pour les subtilités du langage c’est une autre histoire… Il permet de découvrir des concepts assez avancés facilement (programmation fonctionnelle, métaprogrammation, modification d’AST, …)\nl’écosystème : globalement toutes les parties compliquées de vos projets ont déjà été codées par quelqu’un d’autre et sont facilement installable\nle meilleur nul part mais excellent partout : quel que soit le projet, vous aurez toujours un language plus adapté (R pour la “data”, PHP pour du web). Cependant dans les projets modernes qui peuvent s’étendre à l’interface de plusieurs domaines sa généricité est un atout."
-  },
-  {
-    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-faiblesses-du-langage",
-    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-faiblesses-du-langage",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Les faiblesses du langage",
-    "text": "Les faiblesses du langage\nEvidemment tout n’est pas rose. Au bout d’un moment on fini par voir les limites.\nN’oubliez pas qu’il y a deux types de langages : ceux qui sont parfaits et ceux que les gens utilisent.\nVoilà ce que j’ai remarqué :\n\nle langage est trop flexible : les développeurs auront tendance à prendre toute la liberté qu’on leur offre, ce n’est pas une bonne chose à mon avis.\nc’est au développeur d’être responsable : corollaire du point précédent. Là où les langages plus stricts ont des gardes fous, en Python c’est au développeur et son équipe de les mettre en place\nl’écosystème est chaotique : si l’on ne comprend pas bien les bases, installer des modules peut être un vrai calvaire"
-  },
-  {
-    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#et-si-cétait-à-refaire",
-    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#et-si-cétait-à-refaire",
-    "title": "Pourquoi j’aime faire du python",
-    "section": "Et si c’était à refaire ?",
-    "text": "Et si c’était à refaire ?\nJe le referait sans aucun doutes. Mais différemment.\nJ’ai mis vraiment longtemps à saisir certains concepts (par exemple les décorateurs). Pour certains, je ne les ai compris qu’en préparant des cours pour les expliquer (par exemple… les décorateurs) alors que je les utilisais assez souvent. Mais ce n’était pas clair.\nLe problème ce n’est pas la difficulté des sujets ou sa soit-disant incompétence. C’est de trouver des ressources de qualité, qui vous expliquent simplement et sans bullshit ces sujets. Trouvez ces sources n’est pas facile, et surtout elles changent au cours du temps, certains projets n’étant plus mis à jours (au revoir Sam et Max, tu m’aura tout appris).\nC’est pour cela qu’avec Yves nous avons décidé de lancer Oh Ce Cours et ce blog. Pour partager nos ressources et notre expérience au plus grand nombre.\nQue ce soit dans nos formations, dans l’académie ou dans nos articles, nous essayons de vous exposer des sujets méconnus ou complexes, les simplifier pour que vous ayez le déclic.\nDonc, si c’était à refaire, je lirai probablement les articles de ce blog 😀"
+    "objectID": "about.html#explorez-apprenez-progressez",
+    "href": "about.html#explorez-apprenez-progressez",
+    "title": "A propos de ce blog",
+    "section": "Explorez, Apprenez, Progressez",
+    "text": "Explorez, Apprenez, Progressez\nPlongez dans notre blog pour découvrir des ressources éducatives de qualité, des astuces pratiques, et des analyses approfondies. Rejoignez notre communauté de passionnés, échangez avec nos experts, et faites de nouvelles découvertes.\nEnsemble, explorons le monde passionnant du développement et de la technologie. Préparez-vous à être inspiré, à apprendre, et à progresser avec Oh Ce Cours.\n\n\n\n\n\n\nMatthieu\n\n\n\n\n\n\n\nYves"
   },
   {
     "objectID": "posts/ecosysteme-python/2023-11-18-pourquoi-j-aime-faire-du-python copy/index.html",
@@ -140,31 +77,52 @@
     "text": "Et si c’était à refaire ?\nJe le referait sans aucun doutes. Mais différemment.\nJ’ai mis vraiment longtemps à saisir certains concepts (par exemple les décorateurs). Pour certains, je ne les ai compris qu’en préparant des cours pour les expliquer (par exemple… les décorateurs) alors que je les utilisais assez souvent. Mais ce n’était pas clair.\nLe problème ce n’est pas la difficulté des sujets ou sa soit-disant incompétence. C’est de trouver des ressources de qualité, qui vous expliquent simplement et sans bullshit ces sujets. Trouvez ces sources n’est pas facile, et surtout elles changent au cours du temps, certains projets n’étant plus mis à jours (au revoir Sam et Max, tu m’aura tout appris).\nC’est pour cela qu’avec Yves nous avons décidé de lancer Oh Ce Cours et ce blog. Pour partager nos ressources et notre expérience au plus grand nombre.\nQue ce soit dans nos formations, dans l’académie ou dans nos articles, nous essayons de vous exposer des sujets méconnus ou complexes, les simplifier pour que vous ayez le déclic.\nDonc, si c’était à refaire, je lirai probablement les articles de ce blog 😀"
   },
   {
-    "objectID": "about.html#ce-quon-vous-propose",
-    "href": "about.html#ce-quon-vous-propose",
-    "title": "A propos de ce blog",
-    "section": "Ce qu’on Vous Propose",
-    "text": "Ce qu’on Vous Propose\nImaginez un endroit où vous pouvez apprendre le Python et bien d’autres choses et échanger avec d’autres passionnés. Eh bien, c’est ici ! Chez Oh Ce Cours, notre mission est de vous offrir un espace dynamique et fun pour booster vos compétences techniques et découvrir de nouvelles perspectives."
-  },
-  {
-    "objectID": "about.html#bienvenue-sur-le-blog-de-oh-ce-cours.",
-    "href": "about.html#bienvenue-sur-le-blog-de-oh-ce-cours.",
-    "title": "A propos de ce blog",
+    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html",
+    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html",
+    "title": "Pourquoi j’aime faire du python",
     "section": "",
-    "text": "Oh Ce Cours est un organisme de formation créé par Matthieu Falce et Yves Duprat en 2023.\nChez nous, on adore la technologie, et on sait que vous aussi. C’est pour ça qu’on est là, pour vous partager notre passion et vous aider à maîtriser le monde complexe du développement et de la technologie."
+    "text": "Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette.\nPuis j’ai eu de vrais cours d’informatique en prépa. D’abord du Pascal puis du C / C++. Et j’ai détesté. Globalement, ma créativité était bloquée par le langage, je n’arrivais pas à exprimer correctement ce que je voulais à l’ordinateur.\nEt puis j’ai eu un cours de Python en 2011 (python 2.6 ou 2.7)."
   },
   {
-    "objectID": "about.html#on-est-là-pour-vous",
-    "href": "about.html#on-est-là-pour-vous",
-    "title": "A propos de ce blog",
-    "section": "On est Là pour Vous",
-    "text": "On est Là pour Vous\nQue vous soyez débutant désireux d’apprendre les bases ou expert en quête d’inspiration, nous sommes là pour vous accompagner à chaque étape. Nous croyons en l’importance de la pratique, de l’expérimentation, et surtout, du plaisir dans l’apprentissage."
+    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#le-développement-et-moi",
+    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#le-développement-et-moi",
+    "title": "Pourquoi j’aime faire du python",
+    "section": "",
+    "text": "Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette.\nPuis j’ai eu de vrais cours d’informatique en prépa. D’abord du Pascal puis du C / C++. Et j’ai détesté. Globalement, ma créativité était bloquée par le langage, je n’arrivais pas à exprimer correctement ce que je voulais à l’ordinateur.\nEt puis j’ai eu un cours de Python en 2011 (python 2.6 ou 2.7)."
   },
   {
-    "objectID": "about.html#explorez-apprenez-progressez",
-    "href": "about.html#explorez-apprenez-progressez",
-    "title": "A propos de ce blog",
-    "section": "Explorez, Apprenez, Progressez",
-    "text": "Explorez, Apprenez, Progressez\nPlongez dans notre blog pour découvrir des ressources éducatives de qualité, des astuces pratiques, et des analyses approfondies. Rejoignez notre communauté de passionnés, échangez avec nos experts, et faites de nouvelles découvertes.\nEnsemble, explorons le monde passionnant du développement et de la technologie. Préparez-vous à être inspiré, à apprendre, et à progresser avec Oh Ce Cours.\n\n\n\n\n\n\nMatthieu\n\n\n\n\n\n\n\nYves"
+    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#rencontre-avec-python",
+    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#rencontre-avec-python",
+    "title": "Pourquoi j’aime faire du python",
+    "section": "Rencontre avec python",
+    "text": "Rencontre avec python\nEt là c’était fou. J’arrivais enfin à faire des programmes qui marchent.\nQue ce soit de l’algorithmie ou des interfaces graphiques, c’était la première fois où je sentais que je maitrisais ce qui se passait. Tellement, que j’en ai fait mon métier et que maintenant je l’enseigne soit à des étudiants d’université soit à des professionnels en formation continue.\nEn venant du C++ écrire print(\"Hello World\") et avoir quelque chose qui s’affiche directement a quelque chose de magique."
+  },
+  {
+    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-forces-du-langage",
+    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-forces-du-langage",
+    "title": "Pourquoi j’aime faire du python",
+    "section": "Les forces du langage",
+    "text": "Les forces du langage\nAvec un peu de recul, j’ai réussi à mettre le doigt sur ce qui me plaisait vraiment dans ce langage :\n\nne se met pas en chemin de la réflexion : globalement exprimer une idée en python n’est pas trop compliqué, le langage est “haut niveau”, on peut se concentrer sur la destination que l’on veut atteindre\nil est raisonnable : une syntaxe saine, des comportements relativement cohérents et une importance à la lisibilité du code écrit\nil est simple sans être simpliste : pour quelqu’un qui connait l’informatique, apprendre les bases de Python prend une demi journée. Pour les subtilités du langage c’est une autre histoire… Il permet de découvrir des concepts assez avancés facilement (programmation fonctionnelle, métaprogrammation, modification d’AST, …)\nl’écosystème : globalement toutes les parties compliquées de vos projets ont déjà été codées par quelqu’un d’autre et sont facilement installable\nle meilleur nul part mais excellent partout : quel que soit le projet, vous aurez toujours un language plus adapté (R pour la “data”, PHP pour du web). Cependant dans les projets modernes qui peuvent s’étendre à l’interface de plusieurs domaines sa généricité est un atout."
+  },
+  {
+    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-faiblesses-du-langage",
+    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#les-faiblesses-du-langage",
+    "title": "Pourquoi j’aime faire du python",
+    "section": "Les faiblesses du langage",
+    "text": "Les faiblesses du langage\nEvidemment tout n’est pas rose. Au bout d’un moment on fini par voir les limites.\nN’oubliez pas qu’il y a deux types de langages : ceux qui sont parfaits et ceux que les gens utilisent.\nVoilà ce que j’ai remarqué :\n\nle langage est trop flexible : les développeurs auront tendance à prendre toute la liberté qu’on leur offre, ce n’est pas une bonne chose à mon avis.\nc’est au développeur d’être responsable : corollaire du point précédent. Là où les langages plus stricts ont des gardes fous, en Python c’est au développeur et son équipe de les mettre en place\nl’écosystème est chaotique : si l’on ne comprend pas bien les bases, installer des modules peut être un vrai calvaire"
+  },
+  {
+    "objectID": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#et-si-cétait-à-refaire",
+    "href": "posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html#et-si-cétait-à-refaire",
+    "title": "Pourquoi j’aime faire du python",
+    "section": "Et si c’était à refaire ?",
+    "text": "Et si c’était à refaire ?\nJe le referait sans aucun doutes. Mais différemment.\nJ’ai mis vraiment longtemps à saisir certains concepts (par exemple les décorateurs). Pour certains, je ne les ai compris qu’en préparant des cours pour les expliquer (par exemple… les décorateurs) alors que je les utilisais assez souvent. Mais ce n’était pas clair.\nLe problème ce n’est pas la difficulté des sujets ou sa soit-disant incompétence. C’est de trouver des ressources de qualité, qui vous expliquent simplement et sans bullshit ces sujets. Trouvez ces sources n’est pas facile, et surtout elles changent au cours du temps, certains projets n’étant plus mis à jours (au revoir Sam et Max, tu m’aura tout appris).\nC’est pour cela qu’avec Yves nous avons décidé de lancer Oh Ce Cours et ce blog. Pour partager nos ressources et notre expérience au plus grand nombre.\nQue ce soit dans nos formations, dans l’académie ou dans nos articles, nous essayons de vous exposer des sujets méconnus ou complexes, les simplifier pour que vous ayez le déclic.\nDonc, si c’était à refaire, je lirai probablement les articles de ce blog 😀"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Le blog du collectif Oh Ce Cours",
+    "section": "",
+    "text": "Ceci est le blog du collectif de formateurs Oh Ce Cours.\nVous trouverez principalement des articles techniques, sur du python, du web, de la data science… Bref les sujets que nous enseignons et maitrisons.\nChez Oh Ce Cours, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. Préparez-vous à faire un tour dans le monde fascinant de la technologie et de l’apprentissage. On est là pour vous inspirer, vous apprendre des choses, et vous faire progresser avec Oh Ce Cours.\nExplorez nos articles. Plongez dans nos publications pour découvrir des tutoriels, des astuces, des analyses approfondies et des conseils pratiques.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\n  \n\n\n\n\nPourquoi j’aime faire du python\n\n\n\n\n\n\n\nEcosystème Python\n\n\n\n\n\n\n\n\n\n\n\nNov 17, 2023\n\n\nMatthieu Falce\n\n\n4 min\n\n\n\n\n\n\nNo matching items"
   }
 ]

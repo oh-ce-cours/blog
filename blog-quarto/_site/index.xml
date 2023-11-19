@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blog du collectif Oh Ce Cours</title>
+<link>https://blog.ohcecours.fr/index.html</link>
+<atom:link href="https://blog.ohcecours.fr/index.xml" rel="self" type="application/rss+xml"/>
+<description>Découvrez des articles riches en contenu sur le développement, la technologie et le coding. Rejoignez la communauté Oh Ce Cours pour explorer des tutoriels pratiques, des astuces techniques, et des analyses approfondies. Plongez dans le monde du code et de la technologie avec nos publications régulières. Restez à jour et ne manquez rien des dernières tendances et conseils pratiques pour booster vos compétences techniques</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Fri, 17 Nov 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Pourquoi j’aime faire du python</title>
+  <dc:creator>Matthieu Falce</dc:creator>
+  <link>https://blog.ohcecours.fr/posts/ecosysteme-python/2023-11-18-pourquoi-j-aime-faire-du-python copy/index.html</link>
+  <description><![CDATA[ Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette. ]]></description>
+  <category>Ecosystème Python</category>
+  <guid>https://blog.ohcecours.fr/posts/ecosysteme-python/2023-11-18-pourquoi-j-aime-faire-du-python copy/index.html</guid>
+  <pubDate>Fri, 17 Nov 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Pourquoi j’aime faire du python</title>
+  <dc:creator>Matthieu Falce</dc:creator>
+  <link>https://blog.ohcecours.fr/posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html</link>
+  <description><![CDATA[ Comme beaucoup d’entre vous, j’ai fait mes premiers programmes sur ma calculette. ]]></description>
+  <category>Ecosystème Python</category>
+  <guid>https://blog.ohcecours.fr/posts/ecosysteme-python/2023-11-17-pourquoi-j-aime-faire-du-python/index.html</guid>
+  <pubDate>Thu, 16 Nov 2023 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

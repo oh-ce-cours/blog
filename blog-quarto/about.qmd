@@ -4,12 +4,6 @@ image: logo.png
 about:
   template: trestles
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
     - icon: link
       text: Oh Ce cours
       href: https://ohcecours.fr

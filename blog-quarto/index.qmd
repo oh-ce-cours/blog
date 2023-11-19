@@ -7,6 +7,9 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  feed:
+    type: partial
+  fields: [image, description, date, categories, title, author, reading-time]
 title-block-banner: true
 ---
 
@@ -15,7 +18,10 @@ Ceci est le blog du collectif de formateurs **Oh Ce Cours**.
 Vous trouverez principalement des articles techniques, sur du python, du web, de la data science... 
 Bref les sujets que nous enseignons et maitrisons. 
 
-Chez **Oh Ce Cours**, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. Que vous soyez débutant cherchant à améliorer vos bases ou professionnel expérimenté en quête de perfectionnement.
+Chez **Oh Ce Cours**, notre objectif est de vous aider à maîtriser les fondamentaux de vos outils, à progresser et à maitriser les bonnes pratiques. 
+Préparez-vous à faire un tour dans le monde fascinant de la technologie et de l'apprentissage. On est là pour vous inspirer, vous apprendre des choses, et vous faire progresser avec Oh Ce Cours.
+
+
 
 **Explorez nos articles**. Plongez dans nos publications pour découvrir des tutoriels, des astuces, des analyses approfondies et des conseils pratiques.
 
