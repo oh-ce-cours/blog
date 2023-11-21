@@ -1,5 +1,7 @@
 project:
   type: website
+execute:
+  freeze: auto
 
 website:
   title: "Blog du collectif Oh Ce Cours"
